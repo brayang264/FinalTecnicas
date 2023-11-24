@@ -1,0 +1,11 @@
+com\ethereo\controller\DeleteServlet.class
+com\ethereo\enlacancha\resources\JakartaEE10Resource.class
+com\ethereo\persistence\ConnectionsDB.class
+com\ethereo\persistence\ControlDB.class
+com\ethereo\controller\UserServlet.class
+com\ethereo\dao\userDAO.class
+com\ethereo\controller\UpdateServlet.class
+com\ethereo\persistence\SendEmail.class
+com\ethereo\dao\userDAOLocal.class
+com\ethereo\enlacancha\JakartaRestConfiguration.class
+com\ethereo\model\User.class
